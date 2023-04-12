@@ -32,5 +32,8 @@ Here are some ideas to get you started:
  
 </p>
 
-<h3>My projects</h3>
-* <a href="https://github.com/thmsgbrt/react-simple-pull-to-refresh"><b>Ewaa</b></a>
+### My projects
+* <a href="https://github.com/HadeelQu/2022-GP1-4"><b>Ewaa</b></a>
+* <a href="https://github.com/HadeelQu/2022-GP1-4](https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering"><b>Coffee Detective</b>
+* <a href="https://github.com/HadeelQu/online-employees-management-system"><b>Superviso</b></a>
+* <a href="https://github.com/HadeelQu/online-employees-management-system](https://github.com/HadeelQu/DataScience-strokePrediction"><b>StrokePrediction</b></a>
