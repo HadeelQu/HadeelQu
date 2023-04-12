@@ -34,6 +34,6 @@ Here are some ideas to get you started:
 
 ### My projects
 * <a href="https://github.com/HadeelQu/2022-GP1-4"><b>Ewaa</b></a>
-* <a href="https://github.com/HadeelQu/2022-GP1-4](https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering"><b>Coffee Detective</b>
+* <a href="https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering"><b>Coffee Detective</b>
 * <a href="https://github.com/HadeelQu/online-employees-management-system"><b>Superviso</b></a>
-* <a href=https://github.com/HadeelQu/DataScience-strokePrediction"><b>StrokePrediction</b></a>
+* <a href="https://github.com/HadeelQu/DataScience-strokePrediction"><b>StrokePrediction</b></a>
