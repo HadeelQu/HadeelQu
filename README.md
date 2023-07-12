@@ -30,11 +30,13 @@ Here are some ideas to get you started:
       <img alt="mysql" src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
    <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=PHP&logoColor=black" />
    
+   
  
 </p>
 
 ### My projects
 * <a href="https://github.com/HadeelQu/2022-GP1-4"><b>Ewaa</b></a>
+* <a href="https://github.com/HadeelQu/2022-GP1-4](https://github.com/HadeelQu/Clickbait-Headlines-Classificatio)"><b>Clickbait Headlines Classification</b></a>
 * <a href="https://github.com/HadeelQu/Coffee-Detective-Practical-Software-Engineering"><b>Coffee Detective</b>
 * <a href="https://github.com/HadeelQu/online-employees-management-system"><b>Superviso</b></a>
 * <a href="https://github.com/HadeelQu/DataScience-strokePrediction"><b>StrokePrediction</b></a>
